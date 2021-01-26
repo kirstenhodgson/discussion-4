@@ -1,0 +1,34 @@
+---
+title: "Discussion 4 Rmd Tips"
+author: "Kirsten Hodgson"
+date: "1/26/2021"
+output: 
+  html_document:
+    theme: cerulean
+    toc: true
+    toc_float: true
+    number_sections: true
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+## Background and Sources
+
+### I'm making headers
+
+```{r}
+#Here's my code!
+Teddy <- 3+10
+plot(mtcars)
+```
+
+#### Something else!
+
+# Another one :D
+
+## More cool stuff
